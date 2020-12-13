@@ -1,6 +1,6 @@
 # 🕴 Suits Quiz 🕴
 
-A simple CLI personal quiz app created using NodeJS which revolves around a set of questions divided into 3 rounds with a leader board at the end.
+A simple CLI Suits quiz app created using NodeJS which revolves around a set of questions divided into 3 rounds with a leader board at the end.
 
 ## Steps to play 🎯
     1. Type in the Name.
